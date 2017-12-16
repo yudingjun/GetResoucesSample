@@ -1,1 +1,1 @@
-# GetResoucesSample
+# Java What-Why-How
